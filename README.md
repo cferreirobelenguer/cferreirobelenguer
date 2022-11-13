@@ -3,8 +3,7 @@
 ⚡I'm Carolina Ferreiro Belenguer⚡
 
 
-- 🌱 I’m currently learning 
-Web applications development
+- 🌱 I’m Front-End developer
 - 📫 How to reach me: carolferreirobelenguer@gmail.com
 
 -->
